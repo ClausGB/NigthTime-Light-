@@ -1,16 +1,16 @@
 # NigthTime-Light-
 Este proyecto lleva a cabo la medición de la actividad económica subnacional mediante imágenes satelitales de luz nocturna
-Install
+## Install
 
-##How to use- 
+## How to use- 
 
-##Plotting-
+## Plotting-
 
-##Preprocessing-
+## Preprocessing-
 
-##Proposed models-
+## Proposed models-
 
-##Evaluating-
+## Evaluating-
 
-##Future projects-
+## Future projects-
 
